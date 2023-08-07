@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello! 👋👋
 
-<!--
-**agswapnil7/agswapnil7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 I specialize in front-end web development, with expertise in HTML, CSS, React, and JavaScript.
 
-Here are some ideas to get you started:
+🤖 I have experience in developing multiple websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎮 Besides coding, I enjoy playing video games.
+
+You can contact me at:
+
+✉️ Email: swapneup123@gmail.com
+
+Discord: Swazy#6828
+
+Feel free to reach out if you need any assistance or want to collaborate on exciting front-end web development projects! 😊
+
