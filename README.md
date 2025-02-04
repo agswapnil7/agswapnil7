@@ -10,7 +10,7 @@ You can contact me at:
 
 ✉️ Email: swapneup123@gmail.com
 
-Discord: Swazy#6828
+Discord: swapzero.x7
 
 Feel free to reach out if you need any assistance or want to collaborate on exciting front-end web development projects and devops! 😊
 
